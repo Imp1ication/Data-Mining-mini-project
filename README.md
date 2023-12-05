@@ -1,7 +1,5 @@
 ## Data Mining mini project - Pima Indians Diabetes Database
 
-<small>組別：第17組 學號：40947075s 姓名：張睿恩</small>
-
 ### 1. 資料集特徵資料說明、屬性特性說明
 
 Pima Indians Diabetes Database 的資料集中包含了來自 Pima Indian 印地安部落的患者與糖尿病相關的健康資訊，總共768筆資料（包含training set 和 test set），包括如下的十個特徵：
